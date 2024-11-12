@@ -7,16 +7,16 @@ TunMod VPN Client is a Windows App designed for secure VPN tunneling and seamles
 
 Features :
 
-Payload Generator
-Multi Profiles
-SSH-Client
-SSL / TLS Tunneling
-Tunneling over VPN
-Private Configuration File
-HTTP Ping
-IP Lookup
-V2Ray
-Xray
-XTLS
+* Payload Generator
+* Multi Profiles
+* SSH-Client
+* SSL / TLS Tunneling
+* Tunneling over VPN
+* Private Configuration File
+* HTTP Ping
+* IP Lookup
+* V2Ray
+* Xray
+* XTLS
 
 
