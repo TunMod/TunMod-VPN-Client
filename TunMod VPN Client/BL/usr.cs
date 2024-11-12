@@ -104,27 +104,6 @@ namespace TunMod_VPN_Client.BL
             var _ConfigJson = Newtonsoft.Json.JsonConvert.SerializeObject(_TempList);
 
 
-
-            //FileInfo fi = new FileInfo(_FilePath);
-            //bool exists = fi.Exists;
-
-            //if(!exists)
-            //{
-            //    File.Create(_FilePath);
-            //}
-
-            //File.WriteAllText(_FilePath, String.Empty);
-
-            //using (var stream = File.Open(_FilePath, FileMode.Open, FileAccess.Write, FileShare.Read))
-            //{
-            //    TextWriter tsw = new StreamWriter(stream);
-            //    tsw.Write(string.Empty);
-            //    tsw.Close();
-            //    stream.Close();
-            //}
-
-            //Thread.Sleep(200);
-
             try
             {
                 File.Delete(_FilePath);
